@@ -163,15 +163,11 @@ nav li {
     align-items: center;
     transition: background-color .3s;
 }
-
 .slider-btn:hover {
     color: #fff !important;
     background-color: #ff4a52;
 }
-
 /* -----search-bar----- */
-
-
 .search-bar {
     background-color: #040E27;
     flex-direction: column;
@@ -220,14 +216,10 @@ nav li {
     cursor: pointer;
     transition: .3s;
 }
-
 .search-btn:hover {
     background-color: #1EC6B6;
 }
-
 /* -----popular-description----- */
-
-
 .popular-heading {
     flex-direction: column;
     align-items: center;
