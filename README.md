@@ -1,13 +1,8 @@
 # Travelo - Tourism Management
 
-![preview project image](assets/images/preview-travelo-img-01.png)
-![preview project image](assets/images/preview-travelo-img-02.png)
-![preview project image](assets/images/preview-travelo-img-03.png)
-![preview project image](assets/images/preview-travelo-img-04.png)
-![preview project image](assets/images/preview-travelo-img-05.png)
-![preview project image](assets/images/preview-travelo-img-06.png)
-
 This project is a tourism management webpage called Travelo. It provides information about various destinations, allows users to search for places, and offers a newsletter subscription.
+
+Explore the Travelo Turism webpage [here](https://sadeq-yaqobi.github.io/travelo-turism-webpage/).
 
 ## Features
 
